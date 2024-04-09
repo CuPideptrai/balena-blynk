@@ -37,5 +37,5 @@
 | ENV ENABLE_DB                                | false           |
 | ENV ENABLE_RAW_DB_DATA_STORE                 | false           |
 | ENV INITIAL_ENERGY                           | 100000          |
-| ENV ADMIN_EMAIL                              | admin@localhost |
-| ENV ADMIN_PASS                               | kenhtaymay      |
+| ENV ADMIN_EMAIL                              | cupi@localhost  |
+| ENV ADMIN_PASS                               | cupideptrai     |
