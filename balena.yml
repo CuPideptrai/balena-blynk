@@ -8,12 +8,12 @@ assets:
   repository:
     type: blob.asset
     data:
-      url: 'https://github.com/kenhtaymay/balena-blynk'
+      url: 'https://github.com/cupideptrai/balena-blynk'
   logo:
     type: blob.asset
     data:
       url: >-
-        https://github.com/kenhtaymay/balena-blynk/raw/docs/images/logo.png
+        https://github.com/cupideptrai/balena-blynk/raw/docs/images/logo.png
 data:
   applicationEnvironmentVariables:
     - HARDWARE_MQTT_PORT: 8440
@@ -52,8 +52,8 @@ data:
     - ENABLE_DB: false
     - ENABLE_RAW_DB_DATA_STORE: false
     - INITIAL_ENERGY: 100000
-    - ADMIN_EMAIL: admin@localhost
-    - ADMIN_PASS: kenhtaymay
+    - ADMIN_EMAIL: cupi@localhost
+    - ADMIN_PASS: cupideptrai
   defaultDeviceType: raspberrypi3-64	
   supportedDeviceTypes:
     - orange-pi-zero
