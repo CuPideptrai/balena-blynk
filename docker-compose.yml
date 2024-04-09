@@ -53,8 +53,8 @@ services:
     #   - ENABLE_DB=false
     #   - ENABLE_RAW_DB_DATA_STORE=false
     #   - INITIAL_ENERGY=100000
-    #   - ADMIN_EMAIL=admin@localhost
-    #   - ADMIN_PASS=kenhtaymay
+    #   - ADMIN_EMAIL=cupi@localhost
+    #   - ADMIN_PASS=cupideptrai
     volumes:
       - serverfiles:/usr/src/
 volumes:
